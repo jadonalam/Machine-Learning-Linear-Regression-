@@ -1,2 +1,2 @@
 # Machine-Learning-Linear-Regression-
-A code available to demonstrate Linear Regression in use. 
+Code available to demonstrate Linear Regression in use. 
