@@ -34,7 +34,7 @@ x_train, x_test , y_train , y_test = sklearn.model_selection.train_test_split(X,
 # Now that we have our Features and our Target, we want to split our data into training and testing. 
 # Basically, training data is what our model learns from and the testing data is what it tests on. 
 # So, training data can be pictured as homework or practice test that students take. In this case, the student is the model. 
-# Testing data can be thought as the exam or the final were the student displays his/her knowledge. 
+# Testing data can be thought as the exam or the final were the student demonstrates his/her knowledge. 
 
 # the x_train and x_test is the Features, however, they are named differently. A portion is for training and the rest is for testing.
 # the y_test and y_train is the Target values, however, one part is for training, and the other is for testing. 
